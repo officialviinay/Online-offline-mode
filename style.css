@@ -1,0 +1,31 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+#online{
+    background-color: rgba(31, 161, 31);
+    padding: 5px;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    position: absolute;
+    width: 100vw;
+    bottom: 0;
+}
+
+#offline{
+    background-color: rgba(63, 66, 63);
+    padding: 5px;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    position: absolute;
+    width: 100vw;
+    bottom: 0;
+}
+
+
+
+
